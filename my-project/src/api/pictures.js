@@ -1,3 +1,37 @@
+ 
+ export const navigation = [
+    {
+       name:'About',
+       href:'About', 
+    },
+    {
+        name:'Peintures',
+        href:'Peintures', 
+     },
+ ]
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  export const pictures = [
     {
         id: '1',
