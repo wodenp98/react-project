@@ -1,12 +1,21 @@
  
  export const navigation = [
-    {
-       name:'About',
-       href:'About', 
-    },
+
     {
         name:'Peintures',
         href:'Peintures', 
+     },
+     {
+        name:'Sculptures',
+        href:'Sculptures', 
+     },
+     {
+        name:'Architecture',
+        href:'Architecture', 
+     },
+     {
+        name:'Mode',
+        href:'Mode', 
      },
  ]
  
