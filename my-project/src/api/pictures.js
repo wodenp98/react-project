@@ -1,19 +1,28 @@
- 
+import BrushIcon from '@mui/icons-material/Brush';
+import EmojiPeopleIcon from '@mui/icons-material/EmojiPeople';
+import ArchitectureIcon from '@mui/icons-material/Architecture';
+import DryCleaningIcon from '@mui/icons-material/DryCleaning';
+
+
  export const navigation = [
 
     {
+        icon: <BrushIcon />,
         name:'Peintures',
         href:'Peintures', 
      },
      {
+        icon: <EmojiPeopleIcon />,
         name:'Sculptures',
         href:'Sculptures', 
      },
      {
+        icon: <ArchitectureIcon />,
         name:'Architecture',
         href:'Architecture', 
      },
      {
+        icon: <DryCleaningIcon />,
         name:'Mode',
         href:'Mode', 
      },

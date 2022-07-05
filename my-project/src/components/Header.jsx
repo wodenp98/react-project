@@ -1,7 +1,8 @@
 import React from 'react'
 
-import Nav from '../components/Nav'
+
 import Shop from '../components/Shop'
+import Sidebar from './Sidebar'
 
 
 
@@ -12,7 +13,7 @@ const Header = () => {
     <header>
       <div>
       <div>
-        <Nav />
+        <Sidebar />
       </div>
       <h1>Le musée de l'Art</h1>
       <div>
